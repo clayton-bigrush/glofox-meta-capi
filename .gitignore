@@ -1,0 +1,11 @@
+# Secrets — never commit these
+*.env
+meta.env
+meta_token.txt
+credentials*.csv
+*.key
+*.pem
+# OS / Python cruft
+.DS_Store
+__pycache__/
+*.pyc
